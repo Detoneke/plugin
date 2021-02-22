@@ -1,0 +1,7 @@
+name: EternFuncs
+version: ${project.version}
+main: com.github.detoneke.eternfuncs.Main
+api-version: 1.16
+authors: [ Detoneke ]
+description: Functions plugin
+website: http://ds.eternmc.live

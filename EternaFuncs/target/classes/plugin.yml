@@ -1,0 +1,12 @@
+name: EternFuncs
+version: 1.0-SNAPSHOT
+main: com.github.detoneke.eternfuncs.Main
+api-version: 1.16
+authors: [ Detoneke ]
+description: Functions plugin
+website: http://ds.eternmc.live
+commands:
+  announce:
+    description: Say something.
+    permission: eternafuncs.announce
+    permission-message: No perms.
